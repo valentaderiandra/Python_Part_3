@@ -1,10 +1,10 @@
-# Python_Part_3
-The following is an advanced python material from Python_Part_2, which contains several Chapters
+<h1> Python_Part_3 <h1/>
+<p> The following is an advanced python material from Python_Part_2, which contains several Chapters </p>
 
-# 1.Exception Handling Part 2 
-## 1.1 ZeroDivisionError 
-<br />
-# 2.Function-Definition,Call and Return Function
+<h1> 1.Exception Handling Part 2 </h1> 
+<h2> 1.1 ZeroDivisionError  </h2>
+
+<h1> 2.Function-Definition,Call and Return Function </h1>
 ## 2.1 Function
 ## 2.2 Return
 ## 2.3 Pass by reference vs value
