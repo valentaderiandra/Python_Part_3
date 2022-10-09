@@ -3,10 +3,14 @@ The following is an advanced python material from Python_Part_2, which contains 
 
 # 1.Exception Handling Part 2 
 ## 1.1 ZeroDivisionError 
+
+
 # 2.Function-Definition,Call and Return Function
 ## 2.1 Function
 ## 2.2 Return
 ## 2.3 Pass by reference vs value
+
+
 # 3.Pydoc
 # 4.Txt file
 ## 4.1 Open
